@@ -1,5 +1,8 @@
 {
   "name": "simple-ot",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "codemirror": "^5.28.0",
+    "ot": "^0.0.15"
+  }
 }
